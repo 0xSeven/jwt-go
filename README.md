@@ -1,14 +1,9 @@
-# jwt-go
+# jwt-go - example
 
-[![Build Status](https://travis-ci.org/dgrijalva/jwt-go.svg?branch=master)](https://travis-ci.org/dgrijalva/jwt-go)
-[![GoDoc](https://godoc.org/github.com/dgrijalva/jwt-go?status.svg)](https://godoc.org/github.com/dgrijalva/jwt-go)
-
-A [go](http://www.golang.org) (or 'golang' for search engine friendliness) implementation of [JSON Web Tokens](http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html)
-
-**NEW VERSION COMING:** 
-
-package Cryptic
+**Example :** 
 ```golang
+package Cryptic
+
 /*
 	tokenManager.go
 	This file is used to generate and verify a token.
